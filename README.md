@@ -12,7 +12,7 @@ This Currency Converter Web Application is a powerful tool designed to provide r
 - **Dynamic Currency Conversion:** Users can convert currencies in real-time using the latest exchange rates.
 - **API Integration:** 
   - **Country Flags API:** Automatically fetches and displays the flags of the countries corresponding to the selected currencies.
-  - **Exchange Rate API:** Retrieves exchange rates at a specific dates.
+  - **Exchange Rate API:** Retrieves exchange rates at specific dates.
 - **User-Friendly Interface:** The application is designed with a focus on user experience, offering an easy-to-use and responsive interface.
 
-[View the Application]()
+[View the Application](https://vingutha.github.io/CurrencyConverter/)
